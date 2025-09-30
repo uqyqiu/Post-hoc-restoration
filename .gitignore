@@ -1,0 +1,26 @@
+/.idea/
+__pycache__
+*/__pycache__
+__init__.py
+*/__init__.py
+# prepared_data*/
+# prepared_data
+datasets/
+training_history*/
+training_history
+cache/
+runs/
+.DS_Store 
+*/.DS_Store 
+.vscode
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+results/
+*runs/
+wandb/
+.vscode
+.claude
+*.ipynb
+*.zip
+*.png
+*.log
